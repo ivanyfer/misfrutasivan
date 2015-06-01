@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+#paginainicio 
+{background:#609}
+#titulo
+{background:#063; color:#03C}
+#pienombre
+{background:#669; color:#30F}
+#introduccion
+{color:#FFC; size:3; text-align:justify;background:#06F;width:98%: margin:1%}
+#Bayas
+{background:#30C}
+#Cítricos
+{background:#309}
+#Cucurbitáceas
+{background:#C06}
+#Exóticas
+{background:#F93}
+#Fruta dulce
+{background:#30C}
+#Frutos secos
+{background:#F6C}
